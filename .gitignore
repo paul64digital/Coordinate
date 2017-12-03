@@ -1,0 +1,16 @@
+**/.vs
+
+bin/
+obj/
+packages/
+TestResults/
+publish/
+csx/
+
+*.suo
+*.user
+*.bak
+*.azurePubxml
+
+Thumbs.db
+TestResult.xml
