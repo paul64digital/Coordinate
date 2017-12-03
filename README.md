@@ -4,32 +4,32 @@ This will be my implementation of a project management system - not to try and c
 
 ## Up-coming Features
 
-###User login
+### User login
 *Permissions levels
 	
-###Resource Search
+### Resource Search
 *skill, skill level, department, team
 *generic resources
 
-###Email notifications
+### Email notifications
 
-###Timescales
+### Timescales
 *Target date
 
-###Outsourcing work
+### Outsourcing work
 
-###Reporting
+### Reporting
 *Estimated vs actual
 	
-###Timesheets
+### Timesheets
 
-###Finances
+### Finances
 *Project/sprint budget
 *Cost of using more expensive resources
 
-###Suggestions for improvements 
+### Suggestions for improvements 
 *e.g. training staff or outsourcing
 
-###Meetings
+### Meetings
 *agenda items
 *Consideration of the current location of assets
